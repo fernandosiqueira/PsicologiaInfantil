@@ -71,5 +71,3 @@ O site é totalmente responsivo, adaptando-se a diferentes tamanhos de tela:
 - [ ] Melhorar animações de transição
 
 ---
-
-⌨️ Desenvolvido com ❤️
